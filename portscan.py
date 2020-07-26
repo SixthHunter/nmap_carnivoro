@@ -1,7 +1,7 @@
 # NMAP Carnivoro
 # Autor Sixth Hunter
 # 23/07/2020
-print("NMAP CARNIVORO")
+print("PORTSCANNER CARNIVORO")
 print("Sixth Hunter")
 print("[1] - PORT SCANNER")
 
